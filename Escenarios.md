@@ -1,4 +1,6 @@
-ESCENARIO 1
+#ESCENARIOS
+
+##ESCENARIO 1
 
 Vanesa es una mujer de 36 años, dependienta de una tienda de maquillaje en un centro comercial, siempre le ha gustado la tecnología, pero debido a su trabajo, su pasión por los viajes y sacar adelante a su hijo Fernando ella sola, no le ha dejado el tiempo necesario para aprender.
 
@@ -11,7 +13,7 @@ Decidida se dispone a solucionar el problema sin saber muy bien cómo conseguir�
 Sorprendida de la facilidad que le ha supuesto una tarea que se suponía algo más enrevesada, le comunica a su hijo la cita que le ha concertado y después de una pequeña discusión acuerdan que será el quien lo lleve, algo pasa, Fernando está cambiando, quizás ver a su madre resolver tantos problemas día a día, le haga ver en ella un ejemplo a seguir.
 
 
-ESCENARIO 2
+##ESCENARIO 2
 
 Ricardo es un hombre de 54 años, cuyo único sueño es la jubilación, cansado de una vida entera dedicada al trabajo, concretamente a la mecánica donde ha pasado sus últimos 40 años, dado que empezó a trabajar en el taller de su vecino a muy temprana edad.
 
