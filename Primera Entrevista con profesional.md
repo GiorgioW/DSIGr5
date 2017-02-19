@@ -1,4 +1,4 @@
-# Preguntas a profesional – Gestión de citas y piezas en un taller
+# Primera entrevisa con profesional 
 
 # Objetivo de la entrevista:
 El objetivo de esta primera entrevista es una toma de contacto con el sector con el objetivo de encontrar cuales son las necesidades que tienen y que se pueden suplir con la aplicación.
