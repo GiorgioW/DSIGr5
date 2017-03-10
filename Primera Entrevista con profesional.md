@@ -42,6 +42,11 @@ Para recabar la mayor cantidad de información posible acudiremos a la reunión 
 -	Si los trabajos son realizador por distintas personas, ¿Cuál es el grado de coordinación actual de los mecánicos?
 -	¿Qué método usas para repartir el trabajo entre los operarios?
 - Cuando entra un nuevo coche, ¿Se mueve entre distintas secciones o un grupo de trabajadores se centra sobre ese coche hasta que se termina la reparación?
+- **Los precios son intimos
+ - Influye numero pedidos
+ - Prefieres informacion en numero minimo de pantallas o familiarizdo 
+ - ** En tu vida da mas importancia a lo estetico o a lo funcional.
+- **Cambia mucho el numero de pedidos al dia
 
 **Contabilidad:**
 **Tenemos que decidir si esto va a ser una funcinalidad de la aplicación**
