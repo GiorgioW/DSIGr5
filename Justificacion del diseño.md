@@ -1,7 +1,7 @@
 
-#Justificacion del diseño de la aplicacion para la parte cliente
+# Justificacion del diseño de la aplicacion para la parte cliente
 
-##Extraccion de Requisitos
+## Extraccion de Requisitos
 
  - Interfaz sencilla
  - No profundizar mucho en mecanica
@@ -10,7 +10,7 @@
  - Que pedir una cita sea lo fundamental, por encima de la averia o el taller.
 
 
-##Justificacion del diseño de la parte del cliente
+## Justificacion del diseño de la parte del cliente
 
 Para hacer esta aplicacion preguntamos a los usuarios que colores identificaban con un taller de coches y determinaron que eran azul, gris y blanco. 
 A la gente no le importa dar su ubicacion, luego incorporaremos el boton localizame, que permitira ubicar el dispositivo y encontrar tallerers por la zona. tambien habilitamos la opcion de buscar talleres en una ciudad/pueblo concreto introduciendo el codigo postal.
@@ -25,16 +25,16 @@ En la pantalla de seleccion de coche, dispondremos de desplegables para evitar q
 En el ultimo paso, hemos decidido mostrar un sumario de todos los datos de la cita, para que el usuario la confirme, aunque tambien tiene la posibilidad de editar los datos anteriores. Tambien en este paso tendra que dejar datos personales que le identifiquen, para facilitar el trabajo al taller y corroborar que la cita no sea falsa.
 
 ***
-#Justificacion del diseño de la aplicacion para la parte profesional
+# Justificacion del diseño de la aplicacion para la parte profesional
 
-##Extraccion requisitos 
+## Extraccion requisitos 
 
  - Interfaz facil con la mayor informacion posible.
  - Alta usabilidad en pequeñas porciones de tiempo
  - Posibilidad de convertir la agenda de la aplicacion, en la agenda oficial del taller.
 
 
-##Justificacion del diseño de la parte profesional
+## Justificacion del diseño de la parte profesional
 
 Como los clienes nos pidieron una interfaz con mucha informacion, decidimos que teniamos que intentar meter toda la informacion en una sola pantalla, para evitar que un mecanico, con poco tiempo, tenga que navegar entre distintas pestañas, para ver la informacion de los pedidos.
 Es por eso que dispusimos de un calendario corto, de 2 semanas, en la que se mostraba todos los pedidos que se habian introducido en la aplicacion, con la informacion relevante del pedido en primera pagina. Ademas el encargado puede moverse entre los dias del calendario, para organizar el trabajo. 
