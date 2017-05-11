@@ -3,10 +3,11 @@
 
 ## Repositorio del grupo 5 de la asignatura de Diseño de Sistemas Interactivos
 El contenido de este repositorio es:
-  - Cuestionarios: en esta carpeta se incluyen 
-  - Entrevistas:
-  - Ionic:
-  - PresentacionesMarzo-Abril:
-  - Prototipo:
-  - El resto de documentos de texto 
+  - Cuestionarios: en esta carpeta se incluyen todos los cuestionarios utilizados a lo largo del desarrollo de la aplicación, tanto 
+  para el prototipo como para la implementación final.
+  - Entrevistas: contiene las entrevistas realizadas a los profesionales durante el diseño del prototipo.
+  - Ionic: implementación final de la aplicación, tanto del lado del usuario como del lado del profesional. Están en formato .rar
+  - PresentacionesMarzo-Abril: presentación acerca de la aplicación realizada para la entrega intermedia.
+  - Prototipo: PDF con las capturas realizadas al prototipo de la aplicación.
+  - El resto de documentos de texto indican mediante su nombre el contenido que tienen. 
 
