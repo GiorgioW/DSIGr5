@@ -1,4 +1,4 @@
-# Tecnicas de recopilación de información
+# Técnicas de recopilación de información
 
 Obtener una buena información es básico antes de empezar a diseñar nuestra aplicacion, pero para obtenerla de una manera correcta y que ésta sea fiable, es básico usar una buenas técnicas de obtención.
 
