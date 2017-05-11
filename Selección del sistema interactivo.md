@@ -23,4 +23,4 @@ Pasariamos a la pagina principal, donde vienen recuadros con las distintas opcio
 
 7.Ultima pantalla, donde se le solicita al cliente si desea introducir algun comentario de la averia o el suceso que sea de vital importancia y un boton que sea el de confirmar cita, para el cliente la aplicacion termina aqui.
 
-Ni que decir tiene que todas las pantallas tendran un boton de atras, para poder manejarnos perfectamente por la aplicacion.
+Ni que decir tiene que todas las pantallas tendran un boton de atras, para poder manejarnos perfectamente por la aplicación.
